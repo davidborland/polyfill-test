@@ -1,2 +1,2 @@
-# polyfill-test
-Test polyfills for older browsers
+# pds-dashboard-epicpoc
+Proof of concept PDS integration with EPIC

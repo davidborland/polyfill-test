@@ -1,3 +1,5 @@
+import 'core-js';
+
 /*
 import 'core-js/features/object/set-prototype-of';
 import 'core-js/es/map';
